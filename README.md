@@ -1,5 +1,5 @@
 # x_BGC
-##Template for running parameterized 'x_BGC' family model simulations on a supercomputer.
+## Template for running parameterized 'x_BGC' family model simulations on a supercomputer.
 
 ### Introduction
 A self-contained structure including several scripts to allow for the parameterization of experiments with a single model version (i.e., 'x' in 'x_BGC'), while maintaining version control and organizing outputs with the input files that produced them for sub-experiments.
